@@ -5,7 +5,7 @@ START: Theme Header CSS
   padding: 20px 0;
 }
 .tj-header-area.header-4 .header-menu {
-  border: 1px solid #814cec;
+  border: 1px solid #000000;
   border-radius: 50px;
   padding: 0px 40px;
 }
@@ -1215,7 +1215,7 @@ START: Theme Hero CSS
   }
 }
 .tj-hero-4-bottom-reviews-wrap-rating .star-ratings .fill-ratings {
-  color: var(--tj-theme-primary);
+  color: var(--tj-theme-primary-4);
   padding: 0;
   position: absolute;
   z-index: 1;
@@ -12617,7 +12617,7 @@ START: Theme Hero CSS
   height: 100%;
   top: 0;
   left: 0;
-  background: url(../images/join.png);
+  background: url(../images/hero-9-play-bg.svg);
   background-position: center center;
   background-size: contain;
   background-repeat: no-repeat;
@@ -13203,11 +13203,11 @@ START: Theme About CSS
   }
 }
 .tj-about-9-thumb {
-  max-width: 531px;
+  max-width: 535px;
   width: 100%;
-  height: 573px;
+  height: 593px;
 }
-@media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 1080px), only screen and (min-width: 576px) and (max-width: 767px), (max-width: 575px) {
+@media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 576px) and (max-width: 767px), (max-width: 575px) {
   .tj-about-9-thumb {
     max-width: 100%;
   }

@@ -59,18 +59,19 @@ Description: Gerold - Personal Portfolio HTML5 Template
 	--tj-h3-black: #0b0410;
 	--tj-heading-primary: #102039;
 	--tj-heading-secondary: #ea1826;
-	--tj-theme-primary: #8750f7;
+	--tj-theme-primary: #0a070f;
+	--tj-theme-primary-4: #f99904;
 	--tj-theme-primary-1: #2400ff;
-	--tj-theme-primary-2: #9b8dff;
-	--tj-theme-primary-3: #4654f9;
-	--tj-theme-h3-primary-1: #814cec;
+	--tj-theme-primary-2: #040405;
+	--tj-theme-primary-3: #0d0d11;
+	--tj-theme-h3-primary-1: #0c0b0c;
 	--tj-theme-h4-primary-1: #240F31;
-	--tj-theme-secondary: #2a1454;
+	--tj-theme-secondary: #3d0142;
 	--tj-theme-accent-1: #0f0715;
 	--tj-theme-accent-2: #140c1c;
 	--tj-grey-1: #747779;
 	--tj-grey-2: #d9d9d9;
-	--tj-grey-3: #dddddd;
+	--tj-grey-3: #949393;
 	--tj-grey-4: #22272c;
 	--tj-grey-5: #636363;
 	--tj-grey-6: #1b262e;
@@ -118,7 +119,7 @@ Description: Gerold - Personal Portfolio HTML5 Template
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
 	scrollbar-width: thin;
-	scrollbar-color: var(--tj-theme-primary) var(--tj-theme-secondary);
+	scrollbar-color: var(--tj-grey-3) var(--tj-grey-2);
 }
 
 ::-webkit-scrollbar {
